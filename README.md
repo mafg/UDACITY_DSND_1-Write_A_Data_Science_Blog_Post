@@ -1,3 +1,11 @@
+## Investigation
+
+The aim of this notebook is to answer to 3 (and something more) questions:
+
+* How the price rates changes during the year? Local maximum/minimum or spike?
+* Anythings about the properties that affects the base price rates?
+* Is it possible to predict price rates by means of the available data? 
+
 ## Content
 
 The following Airbnb activity is included in AirBnB per city dataset: 
@@ -10,6 +18,3 @@ The following Airbnb activity is included in AirBnB per city dataset:
 Data sources:  
 * [Boston dataset](https://www.kaggle.com/airbnb/boston)  
 * [Seattle dataset](https://www.kaggle.com/airbnb/seattle)
-
-
-## Investigation
