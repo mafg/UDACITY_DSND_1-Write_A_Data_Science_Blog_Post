@@ -1,6 +1,6 @@
 ## Investigation
 
-The aim of this notebook is to answer to 3 (and something more) questions:
+The aim of this notebook is to answer to 3 (and something more) business questions over the AirBnB datasets of Boston:
 
 * How the price rates changes during the year? Local maximum/minimum or spike?
 * Anythings about the properties that affects the base price rates?
