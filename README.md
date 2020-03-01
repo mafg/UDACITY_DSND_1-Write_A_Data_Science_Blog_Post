@@ -20,3 +20,6 @@ The following Airbnb activity is included in AirBnB per city dataset:
 Data sources:  
 * [Boston dataset](https://www.kaggle.com/airbnb/boston)  
 * [Seattle dataset](https://www.kaggle.com/airbnb/seattle)
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
